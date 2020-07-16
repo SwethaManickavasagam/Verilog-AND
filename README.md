@@ -1,5 +1,5 @@
 # Verilog-AND
-This trove consists of verilog code,RTL,simulation output,testbench of OR gate in all three levels of modeling(gate level,data flow and behavioral model)
+This trove consists of verilog code,RTL,simulation output,testbench of AND gate in all three levels of modeling(gate level,data flow and behavioral model)
 
 gand - gate level verilog code
 
